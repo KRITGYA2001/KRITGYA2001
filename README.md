@@ -12,9 +12,6 @@ Hi 👋, I'm Kritgya Kumar<br>A passionate Django Developer from India<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kritgya2001&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritgya2001&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Kritgya2001&icon=9&color=3)](https://visitcount.itsvg.in)
 
